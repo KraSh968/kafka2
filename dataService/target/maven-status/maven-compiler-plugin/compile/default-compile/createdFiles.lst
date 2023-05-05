@@ -1,0 +1,8 @@
+com\orlov\config\KafkaConsumerConfig.class
+com\orlov\repositories\DepartmentRepository.class
+com\orlov\models\EmployeesDepartment.class
+com\orlov\models\Employees.class
+com\orlov\repositories\EmployeesRepository.class
+com\orlov\controllers\MainController.class
+com\orlov\Main.class
+com\orlov\service\MessageListener.class
